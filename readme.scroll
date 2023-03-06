@@ -1,0 +1,29 @@
+git https://github.com/breck7/funnytombstones.com
+email buy@funnytombstones.com
+baseUrl https://funnytombstones.com
+metaTags
+scrollCssTag
+scrollHeader
+
+groups index
+title FunnyTombstones.com
+date 2023.03.06
+
+startColumns 1
+
+html <center>
+
+# Get the last laugh!
+
+* This will be my retirement business. I am not forging Tombstones...yet...
+
+* For now, star me on GitHub!
+ https://github.com/breck7/funnytombstones.com star me on GitHub
+
+html </center>
+
+
+
+endColumns
+
+permalink index.html
